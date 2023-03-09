@@ -5,7 +5,7 @@
 ### Olá!
 
 ## Eu sou desenvolvedor mobile.
-Atualmente desenvolvendo em Flutter para criar APPs.
+Atualmente desenvolvendo em Flutter.
 
 <br />
 
